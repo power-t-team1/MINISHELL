@@ -1,0 +1,6 @@
+total 28
+-rw-rw-r-- 1 emertxe emertxe  2956 Nov  4 15:28 1_minishell.c
+-rw-rw-r-- 1 emertxe emertxe  1120 Nov  2 14:17 2_sample.c
+-rw-rw-r-- 1 emertxe emertxe    78 Nov  4 15:17 3_while.c
+-rwxrwxr-x 1 emertxe emertxe 13136 Nov  4 15:29 a.out
+-rw-rw-r-- 1 emertxe emertxe     0 Nov  4 15:35 x.txt
